@@ -457,7 +457,7 @@ const CompanyTable = () => {
                   <TableHead style={{ backgroundColor: 'aliceblue' }}>
                     <TableRow>
                       <TableCell>ID</TableCell>
-                      <TableCell align="left">Company Name</TableCell>
+                      <TableCell align="left">Company name</TableCell>
                       <TableCell align="left">Email</TableCell>
                       <TableCell align="left">Phone No.</TableCell>
                       <TableCell align="left">Address</TableCell>
