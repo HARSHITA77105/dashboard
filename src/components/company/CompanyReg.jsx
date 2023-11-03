@@ -255,7 +255,7 @@ export default function CompanyReg() {
 
                             <label className="custom-file-upload">
                                 <input type="file" id="file-input" onChange={handleLogoChange}/>
-                                Upload Company Logo
+                                upload Company Logo
                             </label>
                         </div>
 
